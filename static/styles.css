@@ -4,7 +4,7 @@ html {
 
 body {
     font-family: 'Cabin', sans-serif;
-    background-color: #f6f2ea;
+    background-color: #b5bae2;
     height: 95%;
 }
 
@@ -14,10 +14,10 @@ main {
     justify-content: center;
     align-items: center;
     width: 100%;
-    height: 95%;
+    height: 95%; */
 }
 
-.app {
+ .app {
     background-color: (124,131,188);
     width: 400px;
     border-radius: 10px;
@@ -56,7 +56,7 @@ main {
     align-items: center;
     text-align: center;
     padding: 10px;
-    /* width: 100%; */
+     width: 100%; 
 }
 
 .banner h1 {
@@ -116,9 +116,9 @@ main {
     flex-direction: row;
     justify-content: center;
     margin: 10px 0px;
-}
+} 
 
-button {
+.button {
     border: none;
     border-radius: 2px;
     height: 30px;
@@ -136,7 +136,7 @@ button {
     border: none;
     border-radius: 2px;
     margin-right: 5px;
-}
+} 
 
 .bio {
     font-size: 13px;
@@ -191,8 +191,4 @@ button {
 
 span {
     cursor: pointer;
-}
-
-.friends {
-   width:  
 }
